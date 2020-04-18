@@ -1,1 +1,3 @@
-# nbhatt16.github.io-notetaker
+** Note Taker
+
+To start, run `npm start`
